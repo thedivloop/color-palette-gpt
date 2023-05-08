@@ -1,6 +1,6 @@
 # Color Palette Generator
 
-This is a project from an OPEN AI Udemy course.
+This is a project from an OPEN AI Udemy course titled[ Mastering OpenAI Python APIs: Unleash the Power of GPT4](https://www.udemy.com/course/mastering-openai/?kw=mastering+openai+python&src=sac).
 
 ## Install
 
